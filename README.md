@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ... @ankit kumar
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... javascipt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... email - ankittamori@gmail.com and linkedin - https://www.linkedin.com/in/ankit-kumar-97a195203/
+- 👀 I’m interested in ... programming, web development, developing creative thinking and I love vedio editing,
+- 🌱 I’m currently learning ... web development, javascipt,
+- 💞️ I’m looking to collaborate on ... project based on web development,
+- 📫 How to reach me ... email - ankittamori@gmail.com and linkedin - https://www.linkedin.com/in/ankitkumar-it/
 
 <!---
 ankitkumarcs/ankitkumarcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
